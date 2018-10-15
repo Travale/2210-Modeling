@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: Sheet_08__Unit_Variables
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":-54.32496},"zoom":1.0,"elements":[{"specifyFallback":false,"kind":"Flow","defaultValues":{"name":{"$content":"","$type":"System.String"}},"position":{"x":-312.0,"y":-240.0},"guid":"69ee4123-d2a3-42f5-b11c-e2f115644fcf","$version":"A","$type":"Bolt.GetVariable"},{"kind":"Flow","defaultValues":{"name":{"$content":"","$type":"System.String"}},"position":{"x":-108.0,"y":-240.0},"guid":"33472e20-26d8-4c61-99c8-c7942170d390","$version":"A","$type":"Bolt.SetVariable"},{"kind":"Flow","defaultValues":{"name":{"$content":"","$type":"System.String"}},"position":{"x":120.0,"y":-240.0},"guid":"7ee6e489-7a0f-4c22-a07f-faabd2cd55c7","$version":"A","$type":"Bolt.IsVariableDefined"},{"position":{"xMin":-345.0,"yMin":-309.0,"xMax":324.0,"yMax":-96.0},"label":"Unit_Variables","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"c8e3a7fd-800c-46ff-9160-b3ea8dde9789","$version":"A","$type":"Ludiq.GraphGroup"},{"position":{"xMin":-329.0,"yMin":-276.0,"xMax":312.0,"yMax":-107.0},"label":"Variables
+      (Flow, Graph, Object, Scene, Application, Saved)","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"af1e5493-1165-4a69-a031-4b19d4be3bea","$version":"A","$type":"Ludiq.GraphGroup"}],"$version":"A"}}'
+    _objectReferences: []

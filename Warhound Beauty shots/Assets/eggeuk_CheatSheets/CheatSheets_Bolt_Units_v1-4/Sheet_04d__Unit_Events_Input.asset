@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1893448595, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: Sheet_04d__Unit_Events_Input
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":156.0,"y":-90.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"buttonName":{"$content":"","$type":"System.String"},"action":{"$content":"Down","$type":"Ludiq.PressState"}},"position":{"x":-288.0,"y":-228.0},"guid":"13661122-0247-445a-aa7d-a1e75c2ef1b8","$version":"A","$type":"Bolt.OnButtonInput"},{"coroutine":false,"defaultValues":{"key":{"$content":"Space","$type":"UnityEngine.KeyCode"},"action":{"$content":"Down","$type":"Ludiq.PressState"}},"position":{"x":0.0,"y":-228.0},"guid":"e8f3bb44-8e33-4581-857f-3a117fd76dbf","$version":"A","$type":"Bolt.OnKeyboardInput"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-288.0,"y":-108.0},"guid":"f2fa307d-b69c-4b98-94c4-e8ab753c1c58","$version":"A","$type":"Bolt.OnMouseDown"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-60.0,"y":-108.0},"guid":"867707b8-b7e8-48b1-bbca-7105f5834692","$version":"A","$type":"Bolt.OnMouseDrag"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":168.0,"y":0.0},"guid":"136c6c11-d4b2-44e2-a164-807644082f47","$version":"A","$type":"Bolt.OnMouseEnter"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":12.0,"y":312.0},"guid":"ff1ed68b-c900-49a7-b2fc-bc8a682cbcc8","$version":"A","$type":"Bolt.OnMouseExit"},{"coroutine":false,"defaultValues":{"button":{"$content":"Left","$type":"Ludiq.MouseButton"},"action":{"$content":"Down","$type":"Ludiq.PressState"}},"position":{"x":-288.0,"y":0.0},"guid":"63c84757-b4b5-48b1-b33a-846ccf060bd1","$version":"A","$type":"Bolt.OnMouseInput"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":-60.0,"y":0.0},"guid":"7c061788-28fb-44ca-9f52-4defd034c773","$version":"A","$type":"Bolt.OnMouseOver"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":168.0,"y":-108.0},"guid":"848c932c-7c6f-4791-b68d-0c8a8db0149a","$version":"A","$type":"Bolt.OnMouseUp"},{"coroutine":false,"defaultValues":{"target":null},"position":{"x":396.0,"y":-120.0},"guid":"cd9922e7-a26f-46a0-b73b-34833409e610","$version":"A","$type":"Bolt.OnMouseUpAsButton"},{"position":{"xMin":-324.0,"yMin":-300.0,"xMax":624.0,"yMax":120.0},"label":"Unit_Events","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"f0be9179-bd93-41f2-9107-9514890e7a5c","$version":"A","$type":"Ludiq.GraphGroup"},{"position":{"xMin":-312.0,"yMin":-264.0,"xMax":612.0,"yMax":108.0},"label":"Events
+      _ Input","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"d1c08e93-4682-47bc-bc18-41312904fcda","$version":"A","$type":"Ludiq.GraphGroup"}],"$version":"A"}}'
+    _objectReferences: []
